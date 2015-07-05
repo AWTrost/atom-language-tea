@@ -1,0 +1,5 @@
+".source.tea":
+  editor:
+    increaseIndentPattern: "^.*\\{[^}\"']*$"
+    decreaseIndentPattern: "^(.*\\*/)?\\s*\\}.*$"
+    commentStart: "// "
