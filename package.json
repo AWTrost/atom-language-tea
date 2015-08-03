@@ -1,6 +1,6 @@
 {
   "name": "language-tea",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Tea syntax package for atom",
   "keywords": [],
   "repository": "https://github.com/AWTrost/atom-language-tea",
