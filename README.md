@@ -1,3 +1,3 @@
-# language-tea package
+# atom-language-tea package
 
-A short description of your package.
+Tea templating language syntax highlighting for the Atom editor.
